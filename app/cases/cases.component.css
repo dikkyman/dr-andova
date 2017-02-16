@@ -1,0 +1,14 @@
+.row{
+    margin-left: 0px;
+    margin-right: 0px;
+    background-color: #fff;
+}
+h2{
+    color: #e60073;
+    font-size: 26px;
+    border-bottom: 1px solid #ff3399;
+}
+h3{
+    color: #e60073;
+    font-size: 17px;
+}

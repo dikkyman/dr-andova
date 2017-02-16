@@ -1,0 +1,39 @@
+.row{
+    margin-left: 0px;
+    margin-right: 0px;
+    background-color: #fff;
+}
+h2{
+    color: #e60073;
+    font-size: 26px;
+    border-bottom: 1px solid #e60073;
+}
+h3{
+    color: #e60073;
+    font-size: 17px;
+}
+
+h4{
+    margin-top: 16px;
+}
+
+.fa-circle {
+  color: #ff3399;
+}
+
+.media{
+    margin-bottom: 15px;
+}
+
+a{
+    color: #000;
+}
+a:hover{
+    color:#e60073;
+}
+.icon-koronka{
+    background-image: url(./app/assets/images/koronka.png); 
+}
+.koronka{
+     background-image: url(./app/assets/images/koronka1.png);
+}

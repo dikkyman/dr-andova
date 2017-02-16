@@ -1,0 +1,13 @@
+.jumbotron{
+    margin-bottom: 0px;
+    background-image: url(./app/assets/images/carousel2.jpg); 
+    background-size: 100% 100%;
+    min-height: 271px;
+}
+.btn{
+     background-color:#ff3399;
+     border-color: #ff3399;
+}
+h1{
+    color: #ababab
+}
